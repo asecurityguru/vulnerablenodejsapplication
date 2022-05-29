@@ -1,4 +1,4 @@
-# Vulnerable Node JS Project By ASG
+# Vulnerable Node JS Project By NakulFromDelhi
 
 ## Goal - Updated by ASGFeature1
 Design web app with Node.js, Express, and MongoDB and RESTful APIs and demonstrate the **OWASP Top Ten** in it.
