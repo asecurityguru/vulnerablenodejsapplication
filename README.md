@@ -1,5 +1,9 @@
-# Vulnerable Node JS Project
+<<<<<<< HEAD
+# Vulnerable Node JS Project by nakulnakul
+=======
+# Vulnerable Node JS Project by nakul
 
+>>>>>>> 2d0acab10d7b8d4661f6e4144bedad97f018621a
 ## Goal - Updated by ASGFeature1
 Design web app with Node.js, Express, and MongoDB and RESTful APIs and demonstrate the **OWASP Top Ten** in it.
 
